@@ -1,4 +1,4 @@
-package sample;
+package com.kraskaska.music.newgrounds_music_player;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
