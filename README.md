@@ -1,7 +1,7 @@
-##Newgrounds Music Player
+# Newgrounds Music Player
 
-Java written music player, that can play, ~~and save music locally~~ (not available for now)
-
+  Java written music player, that can play, ~~and save music locally~~ (not available for now)
+  
 **TODO LIST:**
 
 - [x] Play music
