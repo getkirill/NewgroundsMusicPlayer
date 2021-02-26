@@ -1,6 +1,6 @@
 # Newgrounds Music Player
 
-  Java written music player, that can play, ~~and save music locally~~ (not available for now)
+  Music player written in Java, that can play, ~~and save music locally~~ (not available for now)
   
 **TODO LIST:**
 
