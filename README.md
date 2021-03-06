@@ -1,4 +1,4 @@
-# Newgrounds Music Player
+# Newgrounds Music Player ![deprecated](https://img.shields.io/badge/status-deprecated-yellow)
 
   Music player written in Java, that can play, ~~and save music locally~~ (not available for now)
   
